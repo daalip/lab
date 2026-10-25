@@ -47,7 +47,6 @@ Every checkpoint ends the same way: a **pull request** on your fork that you rev
 
 Copilot builds the app with the TALXIS skills. Ask it:
 
-> Hey Copilot, which skills are loaded and available?
 
 You should see TALXIS skills such as data-model, backend, security, frontend and deploy. If you don't, tell a facilitator before you go on.
 
